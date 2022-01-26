@@ -1,0 +1,27 @@
+C:\Users\tz987\Desktop\SMPT\SMPT\bin\Debug\SMPT.exe.config
+C:\Users\tz987\Desktop\SMPT\SMPT\bin\Debug\SMPT.exe
+C:\Users\tz987\Desktop\SMPT\SMPT\bin\Debug\SMPT.pdb
+C:\Users\tz987\Desktop\SMPT\SMPT\obj\Debug\SMPT.csprojResolveAssemblyReference.cache
+C:\Users\tz987\Desktop\SMPT\SMPT\obj\Debug\SMPT.Form1.resources
+C:\Users\tz987\Desktop\SMPT\SMPT\obj\Debug\SMPT.Properties.Resources.resources
+C:\Users\tz987\Desktop\SMPT\SMPT\obj\Debug\SMPT.csproj.GenerateResource.Cache
+C:\Users\tz987\Desktop\SMPT\SMPT\obj\Debug\SMPT.exe
+C:\Users\tz987\Desktop\SMPT\SMPT\obj\Debug\SMPT.pdb
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\bin\Debug\SMPT.exe.config
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\bin\Debug\SMPT.exe
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\bin\Debug\SMPT.pdb
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\obj\Debug\SMPT.csprojResolveAssemblyReference.cache
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\obj\Debug\SMPT.Form1.resources
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\obj\Debug\SMPT.Properties.Resources.resources
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\obj\Debug\SMPT.csproj.GenerateResource.Cache
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\obj\Debug\SMPT.exe
+B:\学习资料\.学习资料\1 计算机网络\实验\3 SMTP邮箱收件\SMPT\SMPT\obj\Debug\SMPT.pdb
+B:\学习资料\.学习资料\SMPT\SMPT\bin\Debug\SMPT.exe.config
+B:\学习资料\.学习资料\SMPT\SMPT\obj\Debug\SMPT.exe
+B:\学习资料\.学习资料\SMPT\SMPT\obj\Debug\SMPT.pdb
+B:\学习资料\.学习资料\SMPT\SMPT\obj\Debug\SMPT.csprojResolveAssemblyReference.cache
+B:\学习资料\.学习资料\SMPT\SMPT\obj\Debug\SMPT.Form1.resources
+B:\学习资料\.学习资料\SMPT\SMPT\obj\Debug\SMPT.Properties.Resources.resources
+B:\学习资料\.学习资料\SMPT\SMPT\obj\Debug\SMPT.csproj.GenerateResource.Cache
+B:\学习资料\.学习资料\SMPT\SMPT\bin\Debug\SMPT.exe
+B:\学习资料\.学习资料\SMPT\SMPT\bin\Debug\SMPT.pdb
